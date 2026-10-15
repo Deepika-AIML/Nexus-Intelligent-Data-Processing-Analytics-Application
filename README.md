@@ -1,4 +1,4 @@
-# Nexus — Sales Data Modernization & Analytics Platform
+# Nexus – Intelligent Data Processing & Analytics Application
 
 > An end-to-end data modernization and analytics platform that transforms raw sales data into clean, validated, analytics-ready datasets and presents business insights through an interactive dashboard.
 
